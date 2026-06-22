@@ -1,3 +1,6 @@
+-- ci test change
+-- another comment for testing
+
 with
 
 source as (
